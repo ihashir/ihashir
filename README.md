@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <pre>
 </pre>
+
 - 🌱 I’m currently learning **React JS, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ihashir](https://github.com/ihashir)
