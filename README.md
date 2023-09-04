@@ -1,7 +1,9 @@
 <h1 align="center">Hey there, I'm Hashir Kashif 👋</h1>
 <h3 align="center">A passionate Computer Science student. Love to build stuff, automate tasks, and learn new languages.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<br>
+<pre>
+  
+</pre>
 
 - 🌱 I’m currently learning **React JS, Laravel**
 
