@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Computer Science student. Love to build stuff, automate tasks, and learn new languages.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
+
 - 🌱 I’m currently learning **React JS, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ihashir](https://github.com/ihashir)
