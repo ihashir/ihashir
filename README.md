@@ -1,14 +1,14 @@
 <h1 align="center">Hey there, I'm Hashir Kashif 👋</h1>
-<h3 align="center">A passionate Computer Science student. Love to build stuff, automate tasks, and learn new languages.</h3>
+<h3 align="center">A passionate Software Engineering student. Love to build stuff, automate tasks, and learn new languages.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <pre>
 </pre>
 
-- 🌱 I’m currently learning **React JS, Laravel**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ihashir](https://github.com/ihashir)
 
-- 💬 Ask me about **Python, Automation, HTML/CSS and PHP**
+- 💬 Ask me about **HTML/CSS, JS, PHP, Python, Automation and Data Scraping**
 
 - 📫 How to reach me **hhashirkashif@gmail.com**
 
