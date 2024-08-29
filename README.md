@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ihashir](https://github.com/ihashir)
 
-- 💬 Ask me about **HTML/CSS, JS, PHP, Python, Automation and Data Scraping**
+- 💬 Ask me about **HTML/CSS, JS, PHP, Python, Automation and Data Scraping **
 
 - 📫 How to reach me **hhashirkashif@gmail.com**
 
