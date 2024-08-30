@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ihashir](https://github.com/ihashir)
+- 👨‍💻 All of my projects are available [here](https://github.com/ihashir?tab=repositories)
 
 - 💬 Ask me about **HTML/CSS, JS, PHP, Python, Automation and Data Scraping**
 
